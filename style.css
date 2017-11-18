@@ -1,0 +1,11 @@
+#moneta {
+  position: fixed;
+  top: 40%;
+  left: 40%;
+  background-image: url(reszka.png);
+  background-size: contain;
+  height: 200px;
+  width: 200px;
+  transition: all ;
+  transform: scale(var(--rozmiar)) rotateY(0);
+}
